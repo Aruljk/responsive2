@@ -499,6 +499,7 @@
     .services-four{
         display: flex;
         width: 24%;
+    
     }
     .services-flex h1{
         font-size: 30px;
@@ -517,10 +518,11 @@
         text-align: center;
         font-family: "Raleway", sans-serif;
     }
-    .services-four i{
+    .boxes i{
         font-size: 40px;
         line-height: 1;
         color: #ef7f4d;
+
     }
     .services-four h2{
         color: #111;
